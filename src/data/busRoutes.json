@@ -1,0 +1,115 @@
+[
+  {
+    "id": "route1",
+    "name": "Tuyến 1: Nha Trang - Diên Khánh",
+    "color": "#FF0000",
+    "stops": [
+      {
+        "id": "stop1",
+        "name": "Bến xe Phía Nam",
+        "location": { "lat": 12.215512, "lng": 109.190414 }
+      },
+      {
+        "id": "stop2",
+        "name": "Bệnh viện tỉnh Khánh Hòa",
+        "location": { "lat": 12.246552, "lng": 109.192337 }
+      },
+      {
+        "id": "stop3",
+        "name": "Công viên Phù Đổng",
+        "location": { "lat": 12.252752, "lng": 109.191880 }
+      },
+      {
+        "id": "stop4",
+        "name": "Chợ Đầm",
+        "location": { "lat": 12.250690, "lng": 109.194047 }
+      },
+      {
+        "id": "stop5",
+        "name": "Thư viện tỉnh",
+        "location": { "lat": 12.272188, "lng": 109.182975 }
+      },
+      {
+        "id": "stop6",
+        "name": "Đại học Nha Trang",
+        "location": { "lat": 12.268417, "lng": 109.197762 }
+      }
+    ],
+    "path": [
+      { "lat": 12.215512, "lng": 109.190414 },
+      { "lat": 12.225000, "lng": 109.192000 },
+      { "lat": 12.246552, "lng": 109.192337 },
+      { "lat": 12.252752, "lng": 109.191880 },
+      { "lat": 12.250690, "lng": 109.194047 },
+      { "lat": 12.260000, "lng": 109.190000 },
+      { "lat": 12.272188, "lng": 109.182975 },
+      { "lat": 12.268417, "lng": 109.197762 }
+    ]
+  },
+  {
+    "id": "route2",
+    "name": "Tuyến 2: Nha Trang - Cam Ranh",
+    "color": "#0000FF",
+    "stops": [
+      {
+        "id": "stop7",
+        "name": "Bến xe Phương Trang",
+        "location": { "lat": 12.240283, "lng": 109.196503 }
+      },
+      {
+        "id": "stop8",
+        "name": "Khu du lịch Vinpearl",
+        "location": { "lat": 12.226967, "lng": 109.196257 }
+      },
+      {
+        "id": "stop9",
+        "name": "Sân bay Cam Ranh",
+        "location": { "lat": 11.998463, "lng": 109.219656 }
+      },
+      {
+        "id": "stop10",
+        "name": "Trung tâm Cam Ranh",
+        "location": { "lat": 11.921172, "lng": 109.139140 }
+      }
+    ],
+    "path": [
+      { "lat": 12.240283, "lng": 109.196503 },
+      { "lat": 12.226967, "lng": 109.196257 },
+      { "lat": 12.200000, "lng": 109.200000 },
+      { "lat": 12.100000, "lng": 109.210000 },
+      { "lat": 11.998463, "lng": 109.219656 },
+      { "lat": 11.950000, "lng": 109.180000 },
+      { "lat": 11.921172, "lng": 109.139140 }
+    ]
+  },
+  {
+    "id": "route3",
+    "name": "Tuyến 3: Nha Trang - Ninh Hòa",
+    "color": "#00FF00",
+    "stops": [
+      {
+        "id": "stop11",
+        "name": "Bến xe Phía Bắc",
+        "location": { "lat": 12.290942, "lng": 109.154787 }
+      },
+      {
+        "id": "stop12",
+        "name": "Trường Đại học Tôn Đức Thắng",
+        "location": { "lat": 12.297235, "lng": 109.155560 }
+      },
+      {
+        "id": "stop13",
+        "name": "Thị xã Ninh Hòa",
+        "location": { "lat": 12.490102, "lng": 109.129940 }
+      }
+    ],
+    "path": [
+      { "lat": 12.290942, "lng": 109.154787 },
+      { "lat": 12.297235, "lng": 109.155560 },
+      { "lat": 12.350000, "lng": 109.150000 },
+      { "lat": 12.400000, "lng": 109.140000 },
+      { "lat": 12.450000, "lng": 109.135000 },
+      { "lat": 12.490102, "lng": 109.129940 }
+    ]
+  }
+] 
